@@ -5,6 +5,10 @@
 ---
 
 ## 📦 Project Portfolio
+#### 🌐 Full-Stack AI Projects
+
+- [Transit Delay Prediction](https://github.com/seyed-hassani/Transit-Delay-Prediction) – ML model + SHAP + AWS Lambda + Power BI.
+- [Accessible Route Optimizer](https://github.com/seyed-hassani/Accessible-Route-Optimizer) – Dijkstra’s algorithm for routing accessible transit paths.
 
 ### 🏪 **Retail & Business Intelligence**
 - [Retail-Supply-Chain-Automation](https://github.com/seyed-hassani/Retail-Supply-Chain-Automation) – dbt + Snowflake pipeline for retail inventory and sales.
